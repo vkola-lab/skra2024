@@ -29,7 +29,7 @@ These scripts can be found under the 'Kaplan_Meier_Analysis' folder. Through whi
 
 #### Scripts for Cox Proportional Hazards Analysis
 
-These scripts can be found under the 'CPH_Analysis' folder. Through which you will be able to generate Figures 3A through 5D from the paper. 
+These scripts can be found under the 'CPH_Analysis' folder. Through which you will be able to generate Figures 3A through 6 from the paper. 
 
 
 ## Stastistics
