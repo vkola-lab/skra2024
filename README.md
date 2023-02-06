@@ -33,10 +33,20 @@ loc_module = "~/OAI_Github_scripts/" --> path to analysis scripts
 
 These scripts can be found under the 'Kaplan_Meier_Analysis' folder. By running these you will be able to generate Figures 2A and 2B from the paper. 
 
+Notice: When saving figures from Kaplan-Meier analysis, be sure to change the path to your suited location. 
+
+```python
+plt.savefig('~/KMF_Curves/kmf_BML.pdf', format='pdf', bbox_inches = 'tight')
+```
 #### Scripts for Cox Proportional Hazards Analysis
 
 These scripts can be found under the 'CPH_Analysis' folder. By running these you will be able to generate Figures 3A through 6 from the paper. 
 
+Notice: When saving figures from CPH analysis, be sure to change the path to your suited location. 
+
+```python
+plt.savefig('~AUC_Curves/AUC_ALL_Knees_SBL_BML_figure_all_SBL.pdf', format='pdf', bbox_inches = 'tight')
+```
 
 ## Stastistics
 #### Time-Dependent Area Under the Curve (AUC)
