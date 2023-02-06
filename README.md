@@ -25,11 +25,11 @@ Notice: You must update the path to this folder within each script before conduc
 
 #### Scripts for Kaplan Meier Analysis
 
-These scripts can be found under the 'Kaplan_Meier_Analysis' folder. Through which you will be able to generate Figures 2A and 2B from the paper. 
+These scripts can be found under the 'Kaplan_Meier_Analysis' folder. By running these you will be able to generate Figures 2A and 2B from the paper. 
 
 #### Scripts for Cox Proportional Hazards Analysis
 
-These scripts can be found under the 'CPH_Analysis' folder. Through which you will be able to generate Figures 3A through 6 from the paper. 
+These scripts can be found under the 'CPH_Analysis' folder. By running these you will be able to generate Figures 3A through 6 from the paper. 
 
 
 ## Stastistics
