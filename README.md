@@ -55,4 +55,4 @@ plt.savefig('~AUC_Curves/AUC_ALL_Knees_SBL_BML_figure_all_SBL.pdf', format='pdf'
 #### Log-Rank Test
 
 #### Results
-Each CPH Analysis script will produce the time-dependent AUC, Concordance Index, and Brier Score. Kaplan-Meier Analysis scripts will generate Kaplan Meier curves and the Log-Rank test associated with each curve. Generated figures are located in ~/AUC_Curves/ and ~/KMF_Curves/.
+Each CPH Analysis script will produce a time-dependent AUC, Concordance Index, and Brier Score. Kaplan-Meier Analysis scripts will generate Kaplan Meier curves and the Log-Rank test associated with each curve. Generated figures are located in ~/AUC_Curves/ and ~/KMF_Curves/.
