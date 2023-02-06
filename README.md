@@ -23,6 +23,12 @@ All data files for this project are stored within the folder 'OAI_SBL_Analysis_D
 
 Notice: You must update the path to this folder within each script before conducting Cox Proportional Hazards or Kaplan-Meier Analysis. 
 
+```python
+
+loc_data = "/data_1/OAI_SBL_Analysis_Data/"
+loc_module = "/home/tsurendr/OAI_Github_scripts"
+```
+
 #### Scripts for Kaplan Meier Analysis
 
 These scripts can be found under the 'Kaplan_Meier_Analysis' folder. By running these you will be able to generate Figures 2A and 2B from the paper. 
