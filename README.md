@@ -25,8 +25,8 @@ Notice: You must update the path to this folder within each script before conduc
 
 ```python
 
-loc_data = "/data_1/OAI_SBL_Analysis_Data/" --> path to data
-loc_module = "/home/tsurendr/OAI_Github_scripts/" --> path to analysis scripts
+loc_data = "~/OAI_SBL_Analysis_Data/" --> path to data
+loc_module = "~/OAI_Github_scripts/" --> path to analysis scripts
 ```
 
 #### Scripts for Kaplan Meier Analysis
