@@ -1,6 +1,6 @@
 # Subchondral bone length versus bone marrow lesions: Survival models for total knee replacement
 
-This work has been submitted to  _Arthritis Care & Research_ for peer review.
+This work is under peer review.
 
 ## Prerequisites
 
