@@ -40,7 +40,7 @@ plt.savefig('~/KMF_Curves/kmf_BML.pdf', format='pdf', bbox_inches = 'tight')
 ```
 #### Scripts for Cox Proportional Hazards Analysis
 
-These scripts can be found under the 'CPH_Analysis' folder. By running these you will be able to generate Figures 3A through 6 from the paper. 
+These scripts can be found under the 'CPH_Analysis' folder. By running these you will be able to generate the other figures from the paper. 
 
 Notice: When saving figures from CPH analysis, be sure to change the path to your suited location. 
 
