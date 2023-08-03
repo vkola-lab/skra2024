@@ -1,4 +1,4 @@
-# Subchondral bone length versus bone marrow lesions: Survival models for total knee replacement
+# Survival analysis on subchondral bone length for total knee replacement
 
 This work is under peer review.
 
