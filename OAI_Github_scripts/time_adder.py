@@ -60,8 +60,8 @@ def add_time(oai_SBL_KL_WOMAC_merge, knee):
     )
     
     # Plotting Kaplan-Meier curve visualization
-    kmf.plot_survival_function(
-    )
-    plt.ylabel("Survival Probability")
-    plt.title("kmf plot - km_estimate")
+    # kmf.plot_survival_function(
+    # )
+    # plt.ylabel("Survival Probability")
+    # plt.title("kmf plot - km_estimate")
     return oai_SBL_KL_WOMAC_merge
