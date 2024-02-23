@@ -1,6 +1,6 @@
 # Survival analysis on subchondral bone length for total knee replacement
 
-This work is published in *Skeletal Radiology*.
+This work is published in *Skeletal Radiology* (https://doi.org/10.1007/s00256-024-04627-1).
 
 ## Prerequisites
 
